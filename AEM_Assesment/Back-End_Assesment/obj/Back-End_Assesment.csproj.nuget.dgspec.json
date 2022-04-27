@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj": {}
+    "D:\\AEM_BackEnd_Assessment\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj": {}
   },
   "projects": {
-    "D:\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj": {
+    "D:\\AEM_BackEnd_Assessment\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj",
+        "projectUniqueName": "D:\\AEM_BackEnd_Assessment\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj",
         "projectName": "Back-End_Assesment",
-        "projectPath": "D:\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj",
+        "projectPath": "D:\\AEM_BackEnd_Assessment\\AEM_Assesment\\Back-End_Assesment\\Back-End_Assesment.csproj",
         "packagesPath": "C:\\Users\\zaid1\\.nuget\\packages\\",
-        "outputPath": "D:\\AEM_Assesment\\Back-End_Assesment\\obj\\",
+        "outputPath": "D:\\AEM_BackEnd_Assessment\\AEM_Assesment\\Back-End_Assesment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zaid1\\AppData\\Roaming\\NuGet\\NuGet.Config",
